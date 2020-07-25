@@ -1,6 +1,4 @@
-install jest
-npm install --save-dev jest
+install jest >> npm install --save-dev jest
 
-run test
-npm run test
+run test >> npm run test
 
