@@ -1,4 +1,4 @@
-insttal jest
+install jest
 npm install --save-dev jest
 
 run test
